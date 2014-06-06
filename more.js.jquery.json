@@ -30,5 +30,8 @@
     "bugs": "https://github.com/windy1/more.js/issues",
     "homepage": "https://github.com/windy1/more.js",
     "docs": "https://github.com/windy1/more.js/blob/master/README.md",
-    "download": "https://raw.githubusercontent.com/windy1/more.js/master/jquery.more.js"   
+    "download": "https://raw.githubusercontent.com/windy1/more.js/master/jquery.more.js",
+    "dependencies": {
+        "jquery": ">=1.8.2"
+    }   
 }

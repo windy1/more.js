@@ -34,7 +34,7 @@ more.js is stupid simple.
             ...
         </table>
         <button id="more-btn" class="btn btn-default btn-lg btn-block" 
-                                    data-loading-text="Loading&hellip;">
+                data-loading-text="Loading&hellip;">
             More
         </button>
         <script>

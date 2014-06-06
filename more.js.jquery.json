@@ -1,8 +1,7 @@
 {
     "name": "more.js",
     "title": "more.js",
-    "description": "more.js is a small and simple jQuery plugin that makes having a button to fetch additional resources 
-                    a breeze.",
+    "description": "more.js is a small and simple jQuery plugin that makes having a button to fetch additional resources a breeze.",
     "keywords": [
         "more",
         "ajax",

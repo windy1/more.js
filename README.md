@@ -48,7 +48,7 @@ more.js is stupid simple.
             dataType: 'xml', // defaults to 'json'
             bootstrap: true, // defaults to false
 
-            buildEntries: function() {
+            buildEntries: function(xml) {
                 var html = ...
                 return html;
             }

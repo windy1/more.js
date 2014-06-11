@@ -63,6 +63,18 @@
         };
         options = $.extend(defaults, options);
 
+        if (options.table == null) {
+            options['table'] = $(this).attr('data-table');
+        }
+
+        if (options.input == null) {
+            options['input'] = $(this).attr('data-input');
+        }
+
+        if (options.url == null) {
+            options['url'] = $(this).attr('data-url');
+        }
+
         // argument checking
         var notNull = {
             url: "no url specified to fetch additional resources from",
